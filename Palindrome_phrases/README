@@ -1,0 +1,14 @@
+
+Given lines of text, find the largest palindrome phrase in each line.
+
+Problem can be found on the link: https://msft3c.com/preview/2
+
+Example input:
+
+Dee saw a seed.
+Unicode has some weird stuff in it. Do not, bob to ☃ nod.
+
+Example output:
+
+Dee saw a seed
+Do not, bob to ☃ nod
